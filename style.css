@@ -105,7 +105,7 @@ body {
   font-size: 0.8rem;
   letter-spacing: 5px;
 }
-.info h2 {
+.title {
   font-size: 2rem;
   color: var(--dark-blue);
   font-family: 'Fraunces', serif;
